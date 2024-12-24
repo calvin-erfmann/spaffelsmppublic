@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verlosungen/24.12.2024.md",
+                "file": "Verlosungen Community/2024/24.12.2024.md",
                 "mode": "source",
                 "source": false
               },
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "05c32471f2ddcfd3",
@@ -174,14 +173,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "750d793cf62086d6",
+  "active": "21fe5068e78d6672",
   "lastOpenFiles": [
+    "Verlosungen Community/2024",
     "conflict-files-obsidian-git.md",
-    "Verlosungen/24.12.2024.md",
+    "Verlosungen Community/2024/24.12.2024.md",
     "Untitled.md",
-    "Verlosungen",
-    "spenden/2024.md",
-    "spenden/README.md",
+    "Verlosungen Community",
+    "Spenden/2024.md",
+    "Spenden/README.md",
     "README.md"
   ]
 }
