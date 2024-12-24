@@ -35,6 +35,6 @@ Temporary Items
 ### macOS Patch ###
 # iCloud generated files
 *.icloud
-
+.obsidian/workspace
 # End of https://www.toptal.com/developers/gitignore/api/macos
 
