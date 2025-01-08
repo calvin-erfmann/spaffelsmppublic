@@ -1,5 +1,15 @@
 ## Changelog - 08.01.2025
 
+TEst
+
+Gepostet von: Spaffel
+
+Anmerkungen: Eine tolle Anmerkung
+
+[Link zum WordPress-Post](https://spaffel.vip/?p=210)
+
+## Changelog - 08.01.2025
+
 TEstttt
 
 Gepostet von: Spaffel
