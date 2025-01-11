@@ -1,3 +1,11 @@
+## Changelog - 11.01.2025
+
+- Vote Site minecraft buzz gefixt
+
+Gepostet von: Waschkii
+
+[Link zum WordPress-Post](https://spaffel.vip/?p=217)
+
 ## Changelog - 08.01.2025
 
 - Luckperms auf bessere Datenbank umgestellt
