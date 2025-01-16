@@ -1,3 +1,14 @@
+## Changelog - 16.01.2025
+
+**Autosellchests Update**
+- Autosell Chests können im shop gekauft werden, bei Keys (ik passt nicht, adde da vllt noch was)
+- Maximal benutzt können für den default Spieler 5, für donator 10, und für Vip 20
+
+
+Gepostet von: Waschkii
+
+[Link zum WordPress-Post](https://spaffel.vip/?p=221)
+
 ## Changelog - 11.01.2025
 
 - Vote Site minecraft buzz gefixt
