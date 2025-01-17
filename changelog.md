@@ -1,3 +1,17 @@
+## Changelog - 17.01.2025
+
+Wir haben Support für verschiede Sachen hinzugefügt damit ihr mit noch mehr Leuten spielen könnt:
+
+- Bedrock Edition Support
+- Cracked Support
+
+
+Gepostet von: Spaffel
+
+Anmerkungen: Diese Änderungen haben erstens 3 Stunden gedauert. Zweitens haben diese keine auswirkungen auf die normale community. Ihr werdet keinen Unterschied merken außer, dass villeicht mehr leute auf den Server kommen.
+
+[Link zum WordPress-Post](https://spaffel.vip/?p=223)
+
 ## Changelog - 16.01.2025
 
 **Autosellchests Update**
